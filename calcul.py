@@ -2,7 +2,7 @@ def addition(a, b):
     return a + b
 
 def message():
-    return "Fusion de main et feature/login reussie"
+    return "Nouvelle version de main"
 
 if __name__ == "__main__":
     print(message())
